@@ -8,3 +8,5 @@ and therefore we mannually pick parameters episolon and T for visualization.
 Though the final visualization does not come along with high AMI and ARI scores, but the spans roughly cover
 
 the regions, which demonstrate the effectiveness of the algorithm. 
+
+Crash dataset available: https://github.com/QiuTedYuan/DpDBSCAN/blob/master/datasets/crashes_240928.zip
